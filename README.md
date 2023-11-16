@@ -20,7 +20,9 @@ I'm on a journey to become a proficient JavaScript Developer and I'm excited abo
 
 ![Static Badge](https://img.shields.io/badge/-HTML-red?style=flat-squaree&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-StyledComponents-%23fa70bd?logo=StyledComponents&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Bootstrap-%23872ffa?logo=Bootstrap&logoColor=white)
+
 <!--
 **PetarPetrov01/PetarPetrov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
